@@ -1,31 +1,22 @@
-<h1 align="center" > Hi, I am Hayat Tamboli 👋</h1>
+![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
+<!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
-![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
+Hi there, thanks for stopping by, this is **Your_Name_Here** from **your_place**.
 
-<hr/>
+I usually build cool, interesting websites or tools for fun and for learning using Vue.js and Python, welcome to scroll down to explore [my project](add your link here), maybe you will love them. 😁
 
-<div align="center">
+- 🔭 I’m currently working on...
+- 🌱 I’m currently learning...
+- 📫 You can find me on...
+ 
+---
 
+<p align="center">
+  <i>A good code is like a story, not a puzzle.</i><br/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25"/>
+</p>
 
-[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
 
-</div>
-
-
-I am a computer science undergrad from Solapur, Maharashtra. Currently I am studying in VIT Vellore. I am very passionate about __web design__ and __frontend web development__
-
-## 🔗 Connect with me on :
-
-[![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://hayattamboli.vercel.app/)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hayat-tamboli/)
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/HayatTamboli)
-
-### 👀 visitor count
-
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
-
-<hr />
-
-
-⭐ From [Hayat Tamboli](https://github.com/hayat-tamboli)
+---
+⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25)
