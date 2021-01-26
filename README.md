@@ -1,6 +1,3 @@
-![TmAP8n236xqh75Q.png](https://rauno.dev)
-<!-- You can edit this image in paint and host the image on https://sm.ms/ -->
-
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
@@ -43,10 +40,6 @@ I mostly build cool, interesting websites and tools for fun and for learning whi
 
 <p align="center">
   <i>A good code is like a story, not a puzzle.</i><br/>
-
 </p>
 
-![bottom.png](https://rauno.dev)
-
----
 
