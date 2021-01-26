@@ -1,19 +1,12 @@
-![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
+![TmAP8n236xqh75Q.png](https://rauno.dev)
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
-
-Hi there, thanks for stopping by, this is **Rauno** from Estonia.
-
-I usually build cool, interesting websites or tools for fun and for learning using Vue.js and Python, welcome to scroll down to explore [my project](add your link here), maybe you will love them. 😁
-
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning...
-- 📫 You can find me on...
- 
----
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+
+Hi there, thanks for stopping by, this is **Rauno** from Estonia.
+
+I mostly build cool, interesting websites and tools for fun and for learning while using React, JavaScript and NodeJS. You are welcome to scroll down to explore [my projects](https://github.com/Hairity?tab=repositories). 😁
 
 ### Portfolio: https://rauno.dev
 
@@ -53,7 +46,7 @@ I usually build cool, interesting websites or tools for fun and for learning usi
 
 </p>
 
-![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+![bottom.png](https://rauno.dev)
 
 ---
 
