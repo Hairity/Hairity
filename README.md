@@ -1,13 +1,22 @@
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## One day I will travel the world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 Hi there, thanks for stopping by, this is **Rauno** from Estonia.
 
 I mostly build cool, interesting websites and tools for fun and for learning while using React, JavaScript and NodeJS. You are welcome to scroll down to explore [my projects](https://github.com/Hairity?tab=repositories). 😁
 
+### About
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
+-  **Languages :** JavaScript, HTML, CSS
+-  **Libraries :** React, Materialize, Bootstrap
+-  **Fact :** First solve the problem, then write the code :heart:
+-  **Contact me :** [RaunoUustalu](mailto:i@raunoize@gmail.com)
+
+
 ### Portfolio: https://rauno.dev
 
-<a href="https://www.linkedin.com/in/rauno-uustalu-a4a2651bb/">
+<a href="https://www.linkedin.com/in/rauno-uustalu">
   <img align="left" alt="Rauno Uustalu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Hairity">
