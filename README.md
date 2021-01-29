@@ -11,7 +11,7 @@ I mostly build cool, interesting websites and tools for fun and for learning whi
 -  **Languages :** JavaScript, HTML, CSS
 -  **Libraries :** React, Materialize, Bootstrap
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [RaunoUustalu](mailto:i@raunoize@gmail.com)
+-  **Contact me :** [Rauno Uustalu](mailto:i@raunoize@gmail.com)
 
 
 ### Portfolio: https://rauno.dev
