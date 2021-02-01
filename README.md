@@ -14,7 +14,7 @@ I mostly build cool, interesting websites and tools for fun and for learning whi
 -  **Contact me :** [Rauno Uustalu](mailto:i@raunoize@gmail.com)
 
 
-### Portfolio: https://rauno.dev
+### Portfolio: https://rauno.co
 
 <a href="https://www.linkedin.com/in/rauno-uustalu">
   <img align="left" alt="Rauno Uustalu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
