@@ -1,4 +1,4 @@
-## One day I will travel the world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 Hi there, thanks for stopping by, this is **Rauno** from Estonia.
@@ -10,7 +10,6 @@ I mostly build cool, interesting websites and tools for fun and for learning whi
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** JavaScript, HTML, CSS
 -  **Libraries :** React, Materialize, Bootstrap
--  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Rauno Uustalu](mailto:i@raunoize@gmail.com)
 
 
